@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/habbit-traker-git-test/static/css/main.d5b3b110.chunk.css",
+    "main.js": "/habbit-traker-git-test/static/js/main.2b1b70bf.chunk.js",
+    "main.js.map": "/habbit-traker-git-test/static/js/main.2b1b70bf.chunk.js.map",
+    "runtime-main.js": "/habbit-traker-git-test/static/js/runtime-main.aeaa737a.js",
+    "runtime-main.js.map": "/habbit-traker-git-test/static/js/runtime-main.aeaa737a.js.map",
+    "static/js/2.28127d53.chunk.js": "/habbit-traker-git-test/static/js/2.28127d53.chunk.js",
+    "static/js/2.28127d53.chunk.js.map": "/habbit-traker-git-test/static/js/2.28127d53.chunk.js.map",
+    "static/js/3.d7b8d1b2.chunk.js": "/habbit-traker-git-test/static/js/3.d7b8d1b2.chunk.js",
+    "static/js/3.d7b8d1b2.chunk.js.map": "/habbit-traker-git-test/static/js/3.d7b8d1b2.chunk.js.map",
+    "index.html": "/habbit-traker-git-test/index.html",
+    "static/css/main.d5b3b110.chunk.css.map": "/habbit-traker-git-test/static/css/main.d5b3b110.chunk.css.map",
+    "static/js/2.28127d53.chunk.js.LICENSE.txt": "/habbit-traker-git-test/static/js/2.28127d53.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeaa737a.js",
+    "static/js/2.28127d53.chunk.js",
+    "static/css/main.d5b3b110.chunk.css",
+    "static/js/main.2b1b70bf.chunk.js"
+  ]
+}
